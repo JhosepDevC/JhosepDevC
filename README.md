@@ -11,9 +11,9 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img src="https://raw.githubusercontent.com/JhosepDevC/JhosepDevC/main/assets/snake.svg" alt="snake" />
 </div>
+
 
 
 <!--h2 without bottom border-->
