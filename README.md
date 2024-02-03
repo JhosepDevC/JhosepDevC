@@ -37,7 +37,7 @@
 
 - 💬 Ask me about **Flutter, Angular, Vue.js, nodejs, mongoDB, Spring Boot JAVA**
 
-- 📫 Feel free to reach me out **[Hashnode](devj88717@gmail.com)**
+- 📫 Feel free to reach me out **devj88717@gmail.com**
 
 <!--Intro end-->
 
