@@ -80,8 +80,10 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,flutter,dart,tensorflow,redis,nginx,vuejs,google_cloud,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,flutter,dart,tensorflow,redis,nginx,vuejs,vscode&perline=14" />
   </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+			<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 </p>
 <p align="left"> 
 	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
