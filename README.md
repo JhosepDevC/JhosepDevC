@@ -13,11 +13,6 @@
 </div>
 
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
-
-
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -121,7 +116,3 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 29/4/2023
